@@ -1,0 +1,403 @@
+canonical_identifier: bkk:krp/KR6r0077/v1
+canonical_location: https://kanripo.org/bkk/KR6r0077/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 東林十八高賢傳
+  identifiers:
+    alt_id:
+    - X78n1543
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X78/X78n1543.xml
+    old_id: X78n1543
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0077_000.yaml, hash: 'sha256:02362934f6c1d52ce902d18f9e08ab8e9954af1f94bec00ba38e5bf7af7cadff'}
+  - {seq: 1, filename: KR6r0077_001.yaml, hash: 'sha256:217fbecacb733f088f4c44f776623a75c1852851d27c817a571b0bb1d4663f2e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0077_000.markers.yaml, hash: 'sha256:faed85921a5898b2b33c937e2b52d50272700d45efebdacf60e2f239f5056a6a'}
+  - {seq: 1, role: markers, filename: assets/KR6r0077_001.markers.yaml, hash: 'sha256:df0bb65933c85df9364230e93b88206c3323f197ab99c4980078855d6071438a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0077_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 蓮社十八賢圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0077_X_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1543-A 東林十八高賢傳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0077_X_000-mulu-3
+    span:
+    - front
+    - 232
+    - 232
+  label: 東林十八高賢傳目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11081
+  label: 東林十八高賢傳
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 慧遠法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-2
+    span:
+    - body
+    - 3081
+    - 3081
+  label: 慧永法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-3
+    span:
+    - body
+    - 3438
+    - 3438
+  label: 慧持法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-4
+    span:
+    - body
+    - 3715
+    - 3715
+  label: 道生法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-5
+    span:
+    - body
+    - 4348
+    - 4348
+  label: 曇順法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-6
+    span:
+    - body
+    - 4436
+    - 4436
+  label: 僧叡法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-7
+    span:
+    - body
+    - 4717
+    - 4717
+  label: 曇恒法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-8
+    span:
+    - body
+    - 4795
+    - 4795
+  label: 道昞法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-9
+    span:
+    - body
+    - 4894
+    - 4894
+  label: 曇詵法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-10
+    span:
+    - body
+    - 5018
+    - 5018
+  label: 道敬法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-11
+    span:
+    - body
+    - 5138
+    - 5138
+  label: 佛䭾邪舍尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-12
+    span:
+    - body
+    - 5649
+    - 5649
+  label: 佛䭾跋陀羅尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-13
+    span:
+    - body
+    - 6197
+    - 6197
+  label: 劉程之
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-14
+    span:
+    - body
+    - 6690
+    - 6690
+  label: 張野
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-15
+    span:
+    - body
+    - 6810
+    - 6810
+  label: 周續之
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-16
+    span:
+    - body
+    - 7079
+    - 7079
+  label: 張詮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-17
+    span:
+    - body
+    - 7180
+    - 7180
+  label: 宗炳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-18
+    span:
+    - body
+    - 7503
+    - 7503
+  label: 雷次宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-19
+    span:
+    - body
+    - 7715
+    - 7715
+  label: 十八賢傳後記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-20
+    span:
+    - body
+    - 7796
+    - 7796
+  label: 百二十三人傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-21
+    span:
+    - body
+    - 7802
+    - 7802
+  label: 曇翼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-22
+    span:
+    - body
+    - 8126
+    - 8126
+  label: 曇邕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-23
+    span:
+    - body
+    - 8256
+    - 8256
+  label: 僧濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-24
+    span:
+    - body
+    - 8400
+    - 8400
+  label: 慧恭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-25
+    span:
+    - body
+    - 8608
+    - 8608
+  label: 法安
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-26
+    span:
+    - body
+    - 8777
+    - 8777
+  label: 𨷂公則
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-27
+    span:
+    - body
+    - 8842
+    - 8842
+  label: 陸脩靜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-28
+    span:
+    - body
+    - 8951
+    - 8951
+  label: 不入社諸賢傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-29
+    span:
+    - body
+    - 8957
+    - 8957
+  label: 陶潛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-30
+    span:
+    - body
+    - 9221
+    - 9221
+  label: 謝靈運
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-31
+    span:
+    - body
+    - 9345
+    - 9345
+  label: 范𡩋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-32
+    span:
+    - body
+    - 9444
+    - 9444
+  label: 蓮社十八賢圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0077_X_001-mulu-33
+    span:
+    - body
+    - 10814
+    - 10814
+  label: No. 1543-B
+  type: mulu
+  level: 1
+hash: sha256:a94709d4c4b87286f8783623ba70c22f7dc95089efc2a04603d1dc1fc00dd7cf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
