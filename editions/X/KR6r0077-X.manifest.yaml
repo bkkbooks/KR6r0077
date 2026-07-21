@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0077_000-X.yaml, hash: 'sha256:cdc9999b717f5fa038340df7942e40baf6b7c6c87c48b5a16d588a2f6a4e7c59'}
+  - {seq: 0, filename: KR6r0077_000-X.yaml, hash: 'sha256:3c4306e331a8929622a2ef6f16de1d63a77980d68d1a50d7dcfda530cc1f9519'}
   - {seq: 1, filename: KR6r0077_001-X.yaml, hash: 'sha256:51141e6f98e4c2a089957cbb7ee6ab66d7470b4e1589a6e522b936c7232cb047'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0077_000-X.markers.yaml, hash: 'sha256:20177e9c27376df5f4b499c5ad099f7434d9e9a2668a702e00608d99268471d2'}
+  - {seq: 0, role: markers, filename: assets/KR6r0077_000-X.markers.yaml, hash: 'sha256:43f1c63ebcb3d3f5c5d6deec2c3bb33709e0a8f44754f6e8a25d590388973440'}
   - {seq: 1, role: markers, filename: assets/KR6r0077_001-X.markers.yaml, hash: 'sha256:de1430c5a1d5b07b374cf40b1a4c3ccbda4a766062dc464c8a5398e11e233227'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0077_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 蓮社十八賢圖
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0077_X_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1543-A 東林十八高賢傳序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0077_X_000-mulu-3
     span:
-    - front
+    - body
     - 232
     - 232
   label: 東林十八高賢傳目次
@@ -395,4 +395,4 @@ table_of_contents:
   label: No. 1543-B
   type: mulu
   level: 1
-hash: sha256:abadddc80163f5f1121f324a4491c3b42e77ce95fb56d2a2ca5afb72b5724014
+hash: sha256:82478336f0c58964844c928d6e0ee9bb62cc2eaa9d5b827b315dce459b94c3b6

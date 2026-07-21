@@ -1,15 +1,12 @@
 canonical_identifier: bkk:krp/KR6r0077/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 東林十八高賢傳序往余令鍾陵曾過東林寺虎溪橋上遠公社竟作牛馬走騷驛之場為之慨然去今十餘年乃得東林十八高賢傳讀之諸公皆糞壤富貴膏肓泉石心超淨穢之區境際人天之勝令人脈脈心動摳從亡階況親承接引妙契因依豈必入淨土而極樂上蓮座而興瞻哉此傅刻在廬山未獲流布樂愚上人謀新業于棲賢山中尋授吳門毗耶室梓行豫故喜而序之使信奉此傳人人見遠師人人會廬山也余謂上人尚宜索龍眠十八賢圖附之以傳千載何羡蘭亭輞川哉昔宗少文對衡陽王有言祿如秋草時過即腐試問學道人此片白蓮花有腐敗不不也武林寓生黃汝亨書東林十八高賢傳目次序慧遠法師慧永法師慧持法師道生法師曇順法師僧睿法師曇恆法師道昞法師曇詵法師道敬法師佛馱耶舍尊者佛馱跋陀羅尊者劉程之張野周續之張詮宗炳雷次宗百二十三人傳不入社諸賢傳跋
   hash: sha256:3c3330842078bb5284952bd379790c1576689ae3cab5aeb7ac8630d760d7554a
   markers:
   - {type: 其他, offset: 0, content: 蓮社十八賢圖, id: KR6r0077_X_000-mulu-1, level: '1'}
   - {type: 序, offset: 0, content: No. 1543-A 東林十八高賢傳序, id: KR6r0077_X_000-mulu-2, level: '1'}
   - {type: 其他, offset: 232, content: 東林十八高賢傳目次, id: KR6r0077_X_000-mulu-3, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 東林十八高賢傳
   edition:
@@ -18,4 +15,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X78/X78n1543.xml
     old_id: X78n1543
-hash: sha256:84ef55b28bb33c35f8585aa35003ef4a32d032deb56888830573bfdd5b238f78
+hash: sha256:1d8df5da50bbb7c0514e6a3e9026bf524b4e3d3f080c6209d55ee78c6b81d1d5
